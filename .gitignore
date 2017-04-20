@@ -1,0 +1,11 @@
+
+.git/
+
+# Destination folder with javascript file
+dest/
+
+# Dependency directories
+node_modules/
+
+# Optional npm cache directory
+.npm
