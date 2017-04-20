@@ -2,7 +2,7 @@
 .git/
 
 # Destination folder with javascript file
-dest/
+dist/
 
 # Dependency directories
 node_modules/
